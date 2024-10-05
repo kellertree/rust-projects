@@ -1,2 +1,3 @@
 # rust-projects
-The current rust projects I am working on.
+
+This repository is specifically for accessing my current rust projects.
